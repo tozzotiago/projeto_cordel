@@ -75,7 +75,7 @@ section.imagem {
     background-color: black;
     color: white;
     font-family: var(--fonte4);
-    font-size: 2.3vw;
+    font-size: 3vw;
 }
 
 section.imagem > p {
