@@ -17,8 +17,7 @@
 }
 
 html, body {
-    min-height: 100vh;
-    min-width: 70vw;
+    height: 100vh;
     background-color: white;
     font-family: var(--fonte1);
 }
